@@ -1,7 +1,7 @@
 {
-  "name": "hugo-npm",
+  "name": "video-hugo-sass-bootstrap",
   "version": "0.1.0",
-  "description": "Setting up hugo to work with NPM modules",
+  "description": "Using sass with hugo and bootstrap",
   "main": " ",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender",
@@ -14,14 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/future-wd/youtube-videos/hugo-npm"
+    "url": "https://github.com/future-wd/video-hugo-sass-bootstrap"
   },
   "keywords": [
-    "npm",
-    "hugo",
-    "getting-started"
   ],
-  "author": "Sean Emerson",
+  "author": "Future Web Design",
   "license": "ISC",
   "devDependencies": {
     "exec-bin": "^1.0.0",
